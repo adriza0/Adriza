@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @adriza0
-- 🧠 I'm learning Discord.Js
-- 💞️ I’m looking to collaborate on CoralMc or StoryRPG
+- 🧠 I'm learning Discord.py
 - 📫 How to reach me: discord: .adriza
 - 😄 Pronouns: adri/he/him
-- 📤Join my discord server: https://discord.gg/fJUqj7Jqj3
+- 📤 I'm Working to "Infinity Bot"
 
 
 <!---
